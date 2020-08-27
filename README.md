@@ -1,4 +1,4 @@
-<p align='right'><img src="https://github.com/puneat/puneat/blob/master/faviconnew.png"  class="project-name"/>
+<p align='center'><img src="https://github.com/puneat/puneat/blob/master/faviconnew.png"  class="project-name"/>
       </p>
 About me
 
