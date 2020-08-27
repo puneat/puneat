@@ -1,5 +1,5 @@
- <img src="https://github.com/puneat/puneat/blob/master/faviconnew.png"  class="project-name" />
-      <h2 class="project-tagline"></h2>
+<p align='right'><img src=""  class="project-name"/>
+      </p>
 About me
 
 <li>🔭 I’m currently working on: Speech Emotion Recognition, Quantitative Research, and Signals Processing.</li>
