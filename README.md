@@ -1,5 +1,4 @@
-### Hi there 👋
- <img src="https://s31531.pcdn.co/wp-content/uploads/2017/05/mixed-media-art-supplies-7-e1550613117231-1024x615.jpg"  class="project-name" />
+ <img src="https://github.com/puneat/puneat/blob/master/faviconnew.png"  class="project-name" />
       <h2 class="project-tagline"></h2>
 About me
 
