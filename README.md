@@ -1,4 +1,4 @@
-<p align='center'><img src="https://github.com/puneat/puneat/blob/master/banner.jpg"  class="project-name"/>
+<p align='center'><img src="https://github.com/puneat/puneat/blob/master/banner2.jpg"  class="project-name"/>
       </p>
 <h1>About me</h1>
 
