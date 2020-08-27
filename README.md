@@ -1,6 +1,6 @@
-<p align='center'><img src="https://github.com/puneat/puneat/blob/master/faviconnew.png"  class="project-name"/>
+<p align='center'><img src="https://github.com/puneat/puneat/blob/master/banner.jpg"  class="project-name"/>
       </p>
-About me
+<h1>About me</h1>
 
 <li>🔭 I’m currently working on: Speech Emotion Recognition, Quantitative Research, and Signals Processing.</li>
 <li>🌱 I’m currently learning: Stochastic Calculus, AWS, Portfolio Optimization.</li>
