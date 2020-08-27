@@ -1,5 +1,5 @@
 ### Hi there 👋
- <img src="https://s31531.pcdn.co/wp-content/uploads/2017/05/mixed-media-art-supplies-7-e1550613117231-1024x615.jpg" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
+ <img src="https://s31531.pcdn.co/wp-content/uploads/2017/05/mixed-media-art-supplies-7-e1550613117231-1024x615.jpg"  class="project-name" />
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 About me
 
